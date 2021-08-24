@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alirazadeveloper
+- 👋 Hi, I’m Ali Raza
 - 🌱 I’m currently learning doing job as python developer
 
 <!---
