@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Raza
-- 🌱 I’m currently learning doing job as python developer
+- 🌱 I’m currently doing job as python developer
 
 <!---
 alirazadeveloper/alirazadeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
