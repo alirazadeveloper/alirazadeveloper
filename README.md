@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali Raza
+- 👋 Hi, I’m Ali Raza, A Data Scientist and Research Scholar.
 - 🌱 I’m currently doing job as Python Developer at [Builtin Soft](https://builtinsoft.com/)
 
 <!---
