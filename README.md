@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali Raza, A Data Scientist and Research Scholar.
+- 👋 Hi, I’m Ali Raza, A Data Scientist and Google Research Scholar: [Visit](https://scholar.google.com/citations?user=d7atFlkAAAAJ&hl=en).
 - 🌱 I’m currently doing Freelacning job as Data Science Python Developer.
 
 <!---
